@@ -9,5 +9,3 @@ COPY backend/ ./
 COPY public /public
 
 EXPOSE 5000
-
-CMD ["npm", "start"]
