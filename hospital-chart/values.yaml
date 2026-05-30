@@ -2,7 +2,7 @@
 
 app:
   image:
-    repository: nanineelapu/hospital-app   # <<< change this
+    repository: rahuldutta0487/hospital-app:1.0.0   # <<< change this
     tag: "1.0.0"
   replicas: 2
   containerPort: 5000
